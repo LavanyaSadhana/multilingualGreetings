@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  margin-top: 30px;
+}
+.tabList-container {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  color: #000;
+  font-size: 28px;
+  font-family: 'roboto';
+}
+.language-container {
+  display: flex;
+  flex-direction: column;
+}
